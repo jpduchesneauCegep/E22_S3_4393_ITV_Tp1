@@ -3,7 +3,7 @@
 **But :** le but de ce laboratoire est de **documenter** la procédure d'installation d'un serveur Ubuntu 22.04 LTS dans votre environnement de test.  **Attention documenter n'est pas installer**
 
    - Ce serveur doit utiliser un système de stockage LVM.
-   - IL a carte réseau présente sur le réseau 10.100.2.0/24
+   - Il a carte réseau présente sur le réseau 10.100.2.0/24
    - Il y a 2 processeurs et 4 Go de mémoire vive.
    - Ce serveur devrait pouvoir être accédé depuis une machine client depuis le protocole ssh. 
    - Il faut que le service ssh soit sécurisé.
