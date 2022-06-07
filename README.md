@@ -37,11 +37,10 @@
 
 ## Vous devez fournir :
 
-- Un dépôt GitHub de votre travail
-
-    - Attention ce dépôt doit être privé
+- Un dépôt GitHub Classroom de votre travail
+-
     - Le professeur doit être collaborateur ainsi que les 2 membres de l'équipe
-    - Un fichier readme.md qui résume les informations sur le dépôt
+    - Un fichier auteurs.md qui résume les informations sur le dépôt
          - Date 
          - Membre de l'équipe
          - Contexte
